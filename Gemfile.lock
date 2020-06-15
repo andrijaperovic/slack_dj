@@ -205,6 +205,7 @@ DEPENDENCIES
   interactor-rails
   jbuilder (~> 2.0)
   jquery-rails
+  json (= 1.8.5)
   listen (~> 3.0.5)
   pg
   puma
@@ -222,4 +223,4 @@ DEPENDENCIES
   yt (~> 0.25.5)
 
 BUNDLED WITH
-   1.11.2
+   1.17.2
